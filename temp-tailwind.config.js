@@ -1,0 +1,1 @@
+/** @type {import("tailwindcss").Config} */ module.exports = { content: ["./src/**/*.{js,ts,jsx,tsx}"], safelist: ["size-4", "size-6", "size-8", "size-10", "size-12", "size-16"], theme: { extend: {} }, plugins: [] }
