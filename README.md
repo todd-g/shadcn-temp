@@ -23,7 +23,7 @@ A modern UI template built with React, Vite, TypeScript, and Shadcn UI component
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/shadcn-temp.git
+   git clone https://github.com/todd-g/shadcn-temp.git
    cd shadcn-temp
    ```
 
